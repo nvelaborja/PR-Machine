@@ -1,0 +1,18 @@
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\bin\Debug\PR Machine.exe.config
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\bin\Debug\PR Machine.exe
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\bin\Debug\PR Machine.pdb
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\obj\Debug\PR Machine.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\obj\Debug\PR_Machine.Form1.resources
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\obj\Debug\PR_Machine.Properties.Resources.resources
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\obj\Debug\PR Machine.csproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\obj\Debug\PR Machine.exe
+C:\Users\Nathan\Documents\Computer Science\Smash\PR Machine\PR Machine\obj\Debug\PR Machine.pdb
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\bin\Debug\PR Machine.exe.config
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\obj\Debug\PR Machine.exe
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\obj\Debug\PR Machine.pdb
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\bin\Debug\PR Machine.exe
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\bin\Debug\PR Machine.pdb
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\obj\Debug\PR Machine.csprojResolveAssemblyReference.cache
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\obj\Debug\PR_Machine.Form1.resources
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\obj\Debug\PR_Machine.Properties.Resources.resources
+C:\Users\Wasp\Documents\School\WSU\Computer Science\Smash\PR Machine_Current\PR Machine\PR Machine\obj\Debug\PR Machine.csproj.GenerateResource.Cache
